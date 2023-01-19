@@ -1,6 +1,7 @@
 .header {
     display: flex;
 }
+
 ul {
     display: flex;
     list-style: none;
@@ -8,4 +9,8 @@ ul {
     padding: 0;
     margin-left: auto;
     gap: 1em;
+}
+
+.hero {
+    display: flex;
 }
