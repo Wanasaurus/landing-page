@@ -26,6 +26,13 @@ h2 {
     gap: 1em;
 }
 
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .quote .wisdom {
     font-size: 1.5em;
     font-style: italic;
