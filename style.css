@@ -9,6 +9,7 @@ body {
 
 .header {
     display: flex;
+    padding: 1em 10em;
 }
 
 ul {
@@ -23,6 +24,7 @@ ul {
 .hero {
     display: flex;
     gap: 1em;
+    padding: 0 10em;
 }
 
 h2 {
