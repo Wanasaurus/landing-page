@@ -9,6 +9,7 @@ body {
 
 .header {
     display: flex;
+    max-width: 1200px;
 }
 
 ul {
@@ -23,6 +24,10 @@ ul {
 .hero {
     display: flex;
     gap: 1em;
+}
+
+.hero-text {
+    max-width: 600px;
 }
 
 h2 {
