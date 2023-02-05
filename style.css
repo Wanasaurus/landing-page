@@ -24,6 +24,7 @@ ul {
 .hero {
     display: flex;
     gap: 1em;
+    align-self: center;
 }
 
 .hero-text {
