@@ -42,6 +42,12 @@ h2 {
     gap: 2em;
 }
 
+.thumbnail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .quote {
     display: flex;
     flex-direction: column;
