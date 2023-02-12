@@ -63,7 +63,8 @@ h2 {
 }
 
 .cta {
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 .footer {
