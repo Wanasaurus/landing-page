@@ -65,6 +65,11 @@ h2 {
 .cta {
     display: flex;
     justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: #3882f6;
+    width: 75em;
+    border-radius: 10px;
 }
 
 .footer {
