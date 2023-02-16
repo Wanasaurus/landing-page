@@ -1,3 +1,5 @@
+@import url(//fonts.googleapis.com/css2?family=Roboto+Flex);
+
 * {
     box-sizing: border-box;
 }
@@ -5,6 +7,7 @@
 body {
     display: flex;
     flex-direction: column;
+    font-family: "Roboto Flex", sans-serif;
 }
 
 .header {
