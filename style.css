@@ -82,6 +82,11 @@ h2 {
     gap: 5em;
 }
 
+button {
+    background-color: #3882f6;
+    color: #F9FAF8;
+}
+
 .footer {
     text-align: center;
     background-color: #1F2937;
