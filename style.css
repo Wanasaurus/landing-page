@@ -86,6 +86,7 @@ button {
     background-color: #3882f6;
     color: #F9FAF8;
     border-radius: 10px;
+    border: solid 2px;
 }
 
 .footer {
