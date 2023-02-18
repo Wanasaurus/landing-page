@@ -1,11 +1,11 @@
-@import url(//fonts.googleapis.com/css2?family=Roboto+Flex);
+@import url(https://fonts.googleapis.com/css2?family=Roboto);
 
 * {
     box-sizing: border-box;
 }
 
 body {
-    font-family: "Roboto Flex", sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 .navytop {
