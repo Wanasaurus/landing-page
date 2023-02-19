@@ -14,11 +14,27 @@ body {
     flex-direction: column;
 }
 
+a:link {
+    color: #F9FAF8;
+    text-decoration: none;
+}
+
+a:visited {
+    color:#F9FAF8;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
 .header {
     display: flex;
     width: 75em;
     margin: auto;
-    
 }
 
 .whitewords {
@@ -92,7 +108,7 @@ button {
     border-radius: 10px;
     border: solid 2px;
     padding: 1em 2em;
-    font-weight:bold;
+    font-weight: bold;
 }
 
 .footer {
