@@ -13,7 +13,7 @@ body {
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
-    padding: 1em 0 3em 0;
+    padding: 1em 6em 3em 6em;
     gap: 3em;
 }
 
@@ -36,8 +36,7 @@ a:active {
 
 .header {
     display: flex;
-    width: 75em;
-    margin: auto;
+    
 }
 
 .whitewords {
