@@ -35,8 +35,7 @@ a:active {
 }
 
 .header {
-    display: flex;
-    
+    display: flex;  
 }
 
 .whitewords {
@@ -102,7 +101,6 @@ h2 {
     align-items: center;
     margin: auto;
     background-color: #3882f6;
-    width: 75em;
     border-radius: 10px;
     margin-top: 3em;
     margin-bottom: 3em;
