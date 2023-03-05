@@ -54,6 +54,7 @@ ul {
 
 .hero {
     display: flex;
+    flex-wrap: wrap;
     gap: 1em;
     align-self: center;
 }
